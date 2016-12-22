@@ -16,3 +16,9 @@ Create feature test and feature
 -fill in title 
 -fill in body
 -create article
+
+Listing articles feature test
+-create branch
+-create 2 articles to display
+-list two articles
+-expect both article titles and bodies to be present
