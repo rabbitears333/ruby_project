@@ -22,3 +22,8 @@ Listing articles feature test
 -create 2 articles to display
 -list two articles
 -expect both article titles and bodies to be present
+
+Comments feature
+-create a branch
+-create spec
+-build the functionality
