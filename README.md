@@ -27,3 +27,7 @@ Comments feature
 -create a branch
 -create spec
 -build the functionality
+
+Request spec
+1)a signed in user comments
+2) a non signed in user is redirected to sign in page
